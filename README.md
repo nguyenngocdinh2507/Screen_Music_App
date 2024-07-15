@@ -15,4 +15,4 @@ This project is a starting point for a Flutter application.
 ![Song Screen](assets/images/songScreen.png)
 
 -Playlist Screen
-![Playlist Screen](assets/images/songScreen.png)
+![Playlist Screen](assets/images/playListScreen.png)
