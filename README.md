@@ -7,3 +7,8 @@ A new Flutter project just screen music app .
 
 This project is a starting point for a Flutter application.
 
+# 3 Screen
+- Home Screen
+  ![Uploading image.png…]()
+
+
