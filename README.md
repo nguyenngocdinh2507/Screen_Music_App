@@ -1,4 +1,4 @@
-Hello everyone. I'm starting to learn IT again
+#Hello everyone. I'm starting to learn IT again
 # screen_music_app
 
 A new Flutter project just screen music app .
@@ -7,14 +7,12 @@ A new Flutter project just screen music app .
 
 This project is a starting point for a Flutter application.
 
-# 3 Screen
-<<<<<<< HEAD
-
+# Screen
 -Home Screen
-![img.png](img.png)
-=======
-- Home Screen
-  ![Uploading image.png…]()
+![Home Screen](assets/images/homeScreen.png)
 
+-Song Screen
+![Song Screen](assets/images/songScreen.png)
 
->>>>>>> 7208a4514a11d0f51fd26796614069403690e88b
+-Playlist Screen
+![Playlist Screen](assets/images/songScreen.png)
